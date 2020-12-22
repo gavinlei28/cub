@@ -1,0 +1,169 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name></Name>
+<Dimsize>2</Dimsize>
+<Dimsize>4</Dimsize>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>175.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>175.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>175.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>dynamic setting</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>Start Speed (km/h)</Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Speed (km/h) </Name>
+<Val>36.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Start Range(m)</Name>
+<Val>175.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Stop Range(m)</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+</Cluster>
+</Array>
+</LVData>

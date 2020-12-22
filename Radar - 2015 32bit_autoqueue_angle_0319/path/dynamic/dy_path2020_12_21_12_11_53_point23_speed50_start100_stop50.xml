@@ -1,0 +1,25 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name>dy path speed</Name>
+<Dimsize>0</Dimsize>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>path  </Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>end</Name>
+<Val></Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val></Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val></Val>
+</DBL>
+</Cluster>
+</Array>
+</LVData>

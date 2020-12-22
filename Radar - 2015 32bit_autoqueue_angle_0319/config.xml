@@ -1,0 +1,2747 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name></Name>
+<Dimsize>135</Dimsize>
+<Dimsize>2</Dimsize>
+<String>
+<Name></Name>
+<Val>Step3</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Step3&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Step2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Step2&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Step1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Step1&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Initial to Y Step</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Initial to Y Step&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Move Method</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;Move Method&lt;/Name&gt;
+&lt;Choice&gt;Continue&lt;/Choice&gt;
+&lt;Choice&gt;Inching&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Distance</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Distance&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Move Mode</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;Move Mode&lt;/Name&gt;
+&lt;Choice&gt;Relative&lt;/Choice&gt;
+&lt;Choice&gt;Absolute&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Direct of movement</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;Direct of movement&lt;/Name&gt;
+&lt;Choice&gt;Forward&lt;/Choice&gt;
+&lt;Choice&gt;Backward&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Normal Open / Close</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;Normal Open / Close&lt;/Name&gt;
+&lt;Choice&gt;Open&lt;/Choice&gt;
+&lt;Choice&gt;Close&lt;/Choice&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Move Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Move Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>S ramp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;S ramp&lt;/Name&gt;
+&lt;Val&gt;30.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Acceleration</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Acceleration&lt;/Name&gt;
+&lt;Val&gt;100000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Initial Speed</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Initial Speed&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Deceleration</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Deceleration&lt;/Name&gt;
+&lt;Val&gt;100000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Creep</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Creep&lt;/Name&gt;
+&lt;Val&gt;30.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Stop Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Stop Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Return to Zero Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Return to Zero Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Axis</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Array&gt;
+&lt;Name&gt;Axis&lt;/Name&gt;
+&lt;Dimsize&gt;1&lt;/Dimsize&gt;
+&lt;EW&gt;
+&lt;Name&gt;Axis&lt;/Name&gt;
+&lt;Choice&gt;X&lt;/Choice&gt;
+&lt;Choice&gt;Y&lt;/Choice&gt;
+&lt;Choice&gt;X+Y&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/Array&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Speed</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;10000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Angle</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EL&gt;
+&lt;Name&gt;Angle&lt;/Name&gt;
+&lt;Choice&gt;0&lt;/Choice&gt;
+&lt;Choice&gt;1&lt;/Choice&gt;
+&lt;Choice&gt;10&lt;/Choice&gt;
+&lt;Choice&gt;30&lt;/Choice&gt;
+&lt;Choice&gt;34&lt;/Choice&gt;
+&lt;Choice&gt;60&lt;/Choice&gt;
+&lt;Choice&gt;90&lt;/Choice&gt;
+&lt;Choice&gt;180&lt;/Choice&gt;
+&lt;Choice&gt;-1&lt;/Choice&gt;
+&lt;Choice&gt;-10&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Rotate Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Rotate Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Return to Origin Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Return to Origin Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Move &amp; Rotate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Move &amp;amp; Rotate&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Return to Middle Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Return to Middle Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>IP Addr</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;String&gt;
+&lt;Name&gt;IP Addr&lt;/Name&gt;
+&lt;Val&gt;192.168.0.11&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Connect DUT Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Connect DUT Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Tab Control</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EL&gt;
+&lt;Name&gt;Tab Control&lt;/Name&gt;
+&lt;Choice&gt;FCW&lt;/Choice&gt;
+&lt;Choice&gt;RCS&lt;/Choice&gt;
+&lt;Choice&gt;Instrument&lt;/Choice&gt;
+&lt;Choice&gt;Instrument 2&lt;/Choice&gt;
+&lt;Choice&gt;CUB&lt;/Choice&gt;
+&lt;Choice&gt;GPIB&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Exit</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Exit&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>User</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;User&lt;/Name&gt;
+&lt;Choice&gt;Car A&lt;/Choice&gt;
+&lt;Choice&gt;Car B&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Mode</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;Mode&lt;/Name&gt;
+&lt;Choice&gt;FCW&lt;/Choice&gt;
+&lt;Choice&gt;BSD(Right)&lt;/Choice&gt;
+&lt;Choice&gt;BSD(Left)&lt;/Choice&gt;
+&lt;Choice&gt;RCTA(Right)&lt;/Choice&gt;
+&lt;Choice&gt;RCTA(Left)&lt;/Choice&gt;
+&lt;Choice&gt;DOW(Right)&lt;/Choice&gt;
+&lt;Choice&gt;DOW(Left)&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Velocity</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Velocity&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Clear All</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Clear All&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Coordinates(X,Y)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Coordinates(X,Y)&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;X&lt;/Name&gt;
+&lt;Val&gt;-3.80000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Y&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Modify (X,Y)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Modify (X,Y)&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Path No.</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;U16&gt;
+&lt;Name&gt;Path No.&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/U16&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Lane Distance(X,Y)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Lane Distance(X,Y)&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;X&lt;/Name&gt;
+&lt;Val&gt;4.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Y&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Path</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Path&gt;
+&lt;Name&gt;Path&lt;/Name&gt;
+&lt;Val&gt;&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Load</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Load&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>GTX (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;GTX (dB)&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>GRX (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;GRX (dB)&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Inst. Connect IP</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;String&gt;
+&lt;Name&gt;Inst. Connect IP&lt;/Name&gt;
+&lt;Val&gt;192.168.0.19&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Inst. Connect</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Inst. Connect&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Freq. (GHz)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Freq. (GHz)&lt;/Name&gt;
+&lt;Val&gt;76.50000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Gain Trim (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain Trim (dB)&lt;/Name&gt;
+&lt;Val&gt;5.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Range Trim (m)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range Trim (m)&lt;/Name&gt;
+&lt;Val&gt;2.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Distance to RUT</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Distance to RUT&lt;/Name&gt;
+&lt;Val&gt;3.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Rx Attenuation (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Rx Attenuation (dB)&lt;/Name&gt;
+&lt;Val&gt;3.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Mapping</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Mapping&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;4:4&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;4:2&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;4:1&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Direct program</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Direct program&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 1&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 3&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 4&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Dynamic1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Dynamic1&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 1&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;175.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 2&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;175.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 3&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;175.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 4&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;175.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Trigger</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Trigger&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>status</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;status&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>R^4 Comp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;R^4 Comp&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Custom File</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Custom File&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Run/Stop</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Run/Stop&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>T/R Converters</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;T/R Converters&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RF ON/OFF</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;RF ON/OFF&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Stop</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Stop&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Reset</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Reset&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>report dist</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;report dist&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Tab Control 2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EL&gt;
+&lt;Name&gt;Tab Control 2&lt;/Name&gt;
+&lt;Choice&gt;Move&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>R^4 Comp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;R^4 Comp&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>GTX (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;GTX (dB)&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>GRX (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;GRX (dB)&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Inst. Connect IP2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;String&gt;
+&lt;Name&gt;Inst. Connect IP2&lt;/Name&gt;
+&lt;Val&gt;192.168.0.20&lt;/Val&gt;
+&lt;/String&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Inst. Connect</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Inst. Connect&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Freq. (GHz)2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Freq. (GHz)2&lt;/Name&gt;
+&lt;Val&gt;76.50000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Gain Trim (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain Trim (dB)&lt;/Name&gt;
+&lt;Val&gt;5.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Range Trim (m)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range Trim (m)&lt;/Name&gt;
+&lt;Val&gt;2.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Distance to RUT</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Distance to RUT&lt;/Name&gt;
+&lt;Val&gt;3.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Rx Attenuation (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Rx Attenuation (dB)&lt;/Name&gt;
+&lt;Val&gt;3.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Mapping</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Mapping&lt;/Name&gt;
+&lt;NumElts&gt;3&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;4:4&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;4:2&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;4:1&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Direct program2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Direct program2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 1&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;100.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;50.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 3&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 4&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Dynamic2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Dynamic2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 1&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 2&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 3&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Target 4&lt;/Name&gt;
+&lt;NumElts&gt;6&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Gain(dB)&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Trigger</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Trigger&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>status</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;status&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Custom File</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Custom File&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Run/Stop</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Run/Stop&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>T/R Converters</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;T/R Converters&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RF ON/OFF</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;RF ON/OFF&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Stop</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Stop&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Reset</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Reset&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Cluster</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Cluster&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;tester  A&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt; tester B&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RUN</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;RUN&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Cluster 2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;Cluster 2&lt;/Name&gt;
+&lt;NumElts&gt;2&lt;/NumElts&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;reset y&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;reset x &lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>VISA GPIB Resource</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;VISA GPIB Resource&lt;/Name&gt;
+&lt;RefKind&gt;VISA&lt;/RefKind&gt;
+&lt;Val&gt;EM-2000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>angle</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;angle&lt;/Name&gt;
+&lt;Choice&gt;0&lt;/Choice&gt;
+&lt;Choice&gt;1&lt;/Choice&gt;
+&lt;Choice&gt;5&lt;/Choice&gt;
+&lt;Choice&gt;10&lt;/Choice&gt;
+&lt;Choice&gt;30&lt;/Choice&gt;
+&lt;Choice&gt;60&lt;/Choice&gt;
+&lt;Choice&gt;90&lt;/Choice&gt;
+&lt;Choice&gt;180&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Connect </Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Connect &lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Add Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Add Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Remove Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Remove Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>TCP?</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;TCP?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RCS A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;RCS A&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>lock RCS</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;lock RCS&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>reset ant</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;reset ant&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>origin</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;origin&lt;/Name&gt;
+&lt;Val&gt;90.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Rotate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Rotate&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>s/d setting</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;s/d setting&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dynamic setting</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;dynamic setting&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Speed (km/h)&lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Speed (km/h) &lt;/Name&gt;
+&lt;Val&gt;72.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Start Range(m)&lt;/Name&gt;
+&lt;Val&gt;175.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Stop Range(m)&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Mode</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Mode&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>TARGET</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EL&gt;
+&lt;Name&gt;TARGET&lt;/Name&gt;
+&lt;Choice&gt;CarA&lt;/Choice&gt;
+&lt;Choice&gt;CarB&lt;/Choice&gt;
+&lt;Choice&gt;Dy path&lt;/Choice&gt;
+&lt;Val&gt;2&lt;/Val&gt;
+&lt;/EL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Path?</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Path?&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>AutoExit</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;AutoExit&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Server</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Server&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RCS1 </Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;RCS1 &lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RCS2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;RCS2&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>GTX (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;GTX (dB)&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>GRX (dB)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;GRX (dB)&lt;/Name&gt;
+&lt;Val&gt;10.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Dist to RUT </Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Dist to RUT &lt;/Name&gt;
+&lt;Val&gt;3.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Range</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Range&lt;/Name&gt;
+&lt;Val&gt;127.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Gain</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Gain&lt;/Name&gt;
+&lt;Val&gt;3.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RCSAUTO</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;RCSAUTO&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>RCS B</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;RCS B&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Boolean</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Boolean 2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Boolean 2&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>A dist. comp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;A dist. comp&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>B dist. comp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;B dist. comp&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>clearMSG</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;clearMSG&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Save Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Save Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Save Button 2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Save Button 2&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Open Button</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Open Button&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>X_MID</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;X_MID&lt;/Name&gt;
+&lt;Val&gt;72699.99999999999990&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Y_MID</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Y_MID&lt;/Name&gt;
+&lt;Val&gt;72099.99999999999990&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>gap</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;I32&gt;
+&lt;Name&gt;gap&lt;/Name&gt;
+&lt;Val&gt;5&lt;/Val&gt;
+&lt;/I32&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>X_Vert_Dist(mm)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;X_Vert_Dist(mm)&lt;/Name&gt;
+&lt;Val&gt;24000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Y_Vert_Dist(mm)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Y_Vert_Dist(mm)&lt;/Name&gt;
+&lt;Val&gt;24500.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;U32&gt;
+&lt;Name&gt;wait&lt;/Name&gt;
+&lt;Val&gt;100&lt;/Val&gt;
+&lt;/U32&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait 2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;U32&gt;
+&lt;Name&gt;wait 2&lt;/Name&gt;
+&lt;Val&gt;1500&lt;/Val&gt;
+&lt;/U32&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Speed </Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Speed &lt;/Name&gt;
+&lt;Val&gt;1.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>SPEED</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Array&gt;
+&lt;Name&gt;SPEED&lt;/Name&gt;
+&lt;Dimsize&gt;5&lt;/Dimsize&gt;
+&lt;Dimsize&gt;2&lt;/Dimsize&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;10000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;10000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;834.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;5836.99999999999999&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;9727.99999999999999&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;9727.99999999999999&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Array&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>loop</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;loop&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set </Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;set &lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>early time(ms)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;DBL&gt;
+&lt;Name&gt;early time(ms)&lt;/Name&gt;
+&lt;Val&gt;1500.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>report dist 2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;report dist 2&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dy Path  </Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;Array&gt;
+&lt;Name&gt;dy Path  &lt;/Name&gt;
+&lt;Dimsize&gt;2&lt;/Dimsize&gt;
+&lt;Dimsize&gt;4&lt;/Dimsize&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;125.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;175.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;900.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;2085.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;100.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;125.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;5999.99999999999999&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;7295.99999999999999&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;75.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;100.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;10000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;12160.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;25.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;75.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;10000.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;24320.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;path   2&lt;/Name&gt;
+&lt;NumElts&gt;4&lt;/NumElts&gt;
+&lt;DBL&gt;
+&lt;Name&gt;end&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;start&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;Axis Speed&lt;/Name&gt;
+&lt;Val&gt;NaN&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;DBL&gt;
+&lt;Name&gt;movement&lt;/Name&gt;
+&lt;Val&gt;0.00000000000000&lt;/Val&gt;
+&lt;/DBL&gt;
+&lt;/Cluster&gt;
+&lt;/Array&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+<String>
+<Name></Name>
+<Val>AS mode</Val>
+</String>
+<String>
+<Name></Name>
+<Val>&lt;LvVariant&gt;
+&lt;Name&gt;Variant Data&lt;/Name&gt;
+&lt;EW&gt;
+&lt;Name&gt;AS mode&lt;/Name&gt;
+&lt;Choice&gt;manual&lt;/Choice&gt;
+&lt;Choice&gt;ratio&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;/LvVariant&gt;
+</Val>
+</String>
+</Array>
+</LVData>

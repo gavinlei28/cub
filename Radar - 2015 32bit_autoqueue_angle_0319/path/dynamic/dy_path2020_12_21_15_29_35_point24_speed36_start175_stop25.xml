@@ -1,0 +1,105 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name>dy path speed</Name>
+<Dimsize>2</Dimsize>
+<Dimsize>3</Dimsize>
+<Cluster>
+<Name>path  </Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>175.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>417.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path  </Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>3891.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path  </Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>4863.99999999999999</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path  </Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>NaN</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path  </Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>NaN</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path  </Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>NaN</Val>
+</DBL>
+</Cluster>
+</Array>
+</LVData>

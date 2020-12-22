@@ -1,0 +1,192 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name></Name>
+<Dimsize>46</Dimsize>
+<String>
+<Name>Name</Name>
+<Val>Image</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Radar Settings</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Target 1</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Target 2</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Input RCS File</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Output £m File</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>x*y</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>x^y</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Status?</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Inst. Status</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Array</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>String</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>APP State</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Connect</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>X Axis</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Y Axis</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Run Time (sec)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>X Position (cm)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Y Position (cm)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Status?</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Inst. Status </Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>String </Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>1point</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Report Data.Degree</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>x angle</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>y angle</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>x angle array</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>y angle array</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>auto step finish?</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Path A</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>read buffer</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Meter</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val> big abgle </Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Path B</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>generateWF ok?</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>generateWF ok? 2</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>MSG</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>DYNAMIC</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>autoSliderfinish?</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>autoRSfinish?</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>autoRs2finish?</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>RCS</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>RCS 2</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>RCS</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>RCS def</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>RCS def 2</Val>
+</String>
+</Array>
+</LVData>

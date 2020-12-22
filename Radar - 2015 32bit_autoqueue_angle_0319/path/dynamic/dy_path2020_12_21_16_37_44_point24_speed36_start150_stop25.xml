@@ -1,0 +1,169 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name>dy Path  </Name>
+<Dimsize>2</Dimsize>
+<Dimsize>4</Dimsize>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>150.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>486.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>1216.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>125.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>3891.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>19456.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>50.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>2432.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>6079.99999999999999</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>50.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>7295.99999999999999</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>18240.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>150.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>175.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>355.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>887.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>100.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>150.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>3103.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>15517.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>100.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>1241.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>3103.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>path   2</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>end</Name>
+<Val>50.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>start</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Axis Speed</Name>
+<Val>2483.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>movement</Name>
+<Val>6206.99999999999999</Val>
+</DBL>
+</Cluster>
+</Array>
+</LVData>

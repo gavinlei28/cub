@@ -1,0 +1,88 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name></Name>
+<Dimsize>20</Dimsize>
+<String>
+<Name>Name</Name>
+<Val>ARTC</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Frequency (GHz)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Tx Antenna Gain (dB)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Gain Trim (dB)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Range Trim (m)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Rx Antenna Gain (dB)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Distance to RUT</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Rx Attenuation (dB)</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>simulation setup</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Trigger</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>status</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>R^4 comp</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>custom file</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>RUN/STOP</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>connect</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>buttion</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Direct program</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>dynamic </Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>status</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Boolean</Val>
+</String>
+</Array>
+</LVData>
